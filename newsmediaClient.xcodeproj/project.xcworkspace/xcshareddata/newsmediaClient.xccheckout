@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B98B3CE9-36D6-48AA-8F1D-B81BA8004101</string>
+	<key>IDESourceControlProjectName</key>
+	<string>newsmediaClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D6A63B94DE4CD88BB5895157F88BBCC9CB2DF1A</key>
+		<string>https://github.com/poholo/newsmediaClient.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>newsmediaClient.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D6A63B94DE4CD88BB5895157F88BBCC9CB2DF1A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/poholo/newsmediaClient.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D6A63B94DE4CD88BB5895157F88BBCC9CB2DF1A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D6A63B94DE4CD88BB5895157F88BBCC9CB2DF1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>newsmediaClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>
